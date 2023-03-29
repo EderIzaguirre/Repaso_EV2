@@ -14,7 +14,7 @@ import ventanas.VerdatosEmple;
 public class Principal extends JFrame implements ActionListener{
 
 	private static final long serialVersionUID = 1L;
-    private JButton b1,b2,b3,b4; 
+    private JButton b1,b2,b3,b4,b5; 
       
 	public Principal() {
 	
